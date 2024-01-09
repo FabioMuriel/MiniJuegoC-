@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZoKWc9OLygJE8yCQ6zQ4UcQqfeiyG5Xo0FvFOoUnuk55tE+PFh7GwFXk8mWsro/3h06edslqhn1KljurgVIw3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RYZEN\\Desktop\\Starter\\Starter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RYZEN\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\RYZEN\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\RYZEN\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\RYZEN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
